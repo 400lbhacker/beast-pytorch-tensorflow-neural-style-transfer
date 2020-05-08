@@ -48,15 +48,20 @@ changes/improvements/features:
 
 
 for more of my projects or to add me on social media:
+-----------------------------------------------
+
 github:		https://github.com/400lbhacker 
+
 facebook:	https://www.facebook.com/mimmy.tussins.1
+
 gmail:		josepherickson135@gmail.com
+
 ---------------------------------------------
 
 this project's base directory is located at: 
+
 https://github.com/400lbhacker/beast-pytorch-tensorflow-neural-style-transfer/
+
 ---------------------------------------------
-
-
 
 to instantly run online, click here to launch in google colab: 
